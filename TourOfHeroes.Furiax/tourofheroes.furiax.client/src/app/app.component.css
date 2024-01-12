@@ -1,22 +1,23 @@
-﻿:host {
-    max-width: 1280px;
-    padding: 2rem;
-    text-align: center;
+/* AppComponent's private CSS styles */
+h1 {
+  margin-bottom: 0;
 }
 
-tr:nth-child(even) {
-    background: #F2F2F2;
+nav a {
+  padding: 1rem;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #e8e8e8;
+  color: #3d3d3d;
+  border-radius: 4px;
 }
 
-tr:nth-child(odd) {
-    background: #FFF;
-}
+  nav a:hover {
+    color: white;
+    background-color: #42545C;
+  }
 
-th, td {
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
-
-table {
-    margin: 0 auto;
-}
+  nav a:active {
+    background-color: black;
+  }
