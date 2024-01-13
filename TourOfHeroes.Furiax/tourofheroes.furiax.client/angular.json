@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "tourofheroes.furiax.client:build:production"
+              "buildTarget": "tourofheroes.furiax.client:build:production"
             },
             "development": {
-              "browserTarget": "tourofheroes.furiax.client:build:development"
+              "buildTarget": "tourofheroes.furiax.client:build:development"
             }
           },
           "defaultConfiguration": "development",
@@ -74,7 +74,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "tourofheroes.furiax.client:build"
+            "buildTarget": "tourofheroes.furiax.client:build"
           }
         },
         "test": {
