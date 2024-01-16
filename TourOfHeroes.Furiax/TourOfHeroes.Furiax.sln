@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourOfHeroes.Furiax.Server", "TourOfHeroes.Furiax.Server\TourOfHeroes.Furiax.Server.csproj", "{4F995E18-9044-4926-B9F4-355D79893945}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tourofheroes.furiax.client", "tourofheroes.furiax.client\tourofheroes.furiax.client.esproj", "{73438DBD-410A-40B0-8505-81B4E98B2881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F995E18-9044-4926-B9F4-355D79893945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F995E18-9044-4926-B9F4-355D79893945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F995E18-9044-4926-B9F4-355D79893945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F995E18-9044-4926-B9F4-355D79893945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73438DBD-410A-40B0-8505-81B4E98B2881}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BB26C1-53B4-43DF-BA1B-D827A7ABFC63}
+	EndGlobalSection
+EndGlobal
