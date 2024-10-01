@@ -2,7 +2,7 @@
 
 Welcome to the **Tour of Heroes** App!
 
-This is an Angular application designed to demonstrate some key Angular concepts. Built using the Angluar tutorial documentation.
+This is an Angular application designed to demonstrate some key Angular concepts. Built using the Angular tutorial documentation.
 
 It allows users to manage and view their heroes. It uses an in-memory web API to perform CRUD operations on the application data.
 
