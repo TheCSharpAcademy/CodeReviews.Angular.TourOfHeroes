@@ -1,4 +1,4 @@
-# Tour of Heroes</h1>
+# Tour of Heroes
 
 Welcome to the **Tour of Heroes** App!
 
