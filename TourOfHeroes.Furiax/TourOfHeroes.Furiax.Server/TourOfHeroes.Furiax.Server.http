@@ -1,6 +1,0 @@
-@TourOfHeroes.Furiax.Server_HostAddress = http://localhost:5258
-
-GET {{TourOfHeroes.Furiax.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
