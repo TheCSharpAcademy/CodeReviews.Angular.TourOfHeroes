@@ -1,0 +1,8 @@
+<ul class="heroes">
+  <li *ngFor="let hero of heroes">
+    <a [routerLink]="['/detail', hero.id]">
+      {{ hero.name }}
+    </a>
+  </li>
+</ul>
+<app-hero-search></app-hero-search>
